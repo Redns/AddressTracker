@@ -2,7 +2,7 @@
 
 ![version: v1.0.0 (shields.io)](https://img.shields.io/badge/release-v1.0.0-green) ![version: v1.0.0 (shields.io)](https://img.shields.io/badge/.net-6.0-orange) ![version: v1.0.0 (shields.io)](https://img.shields.io/badge/License-MIT-blue)
 
-### Background
+## Background
 
 通过 `ssh` 我们可以在没有任何外设的情况下连接 Linux 主机，但用户的个人主机很难取得固定的公网 IP，而且某些局域网（如校园网）也不允许我们固定自己的局域网 IP，每一次重启后主机都可能获取不同的 IP 地址。在这种情况下，通过 `ssh` 连接主机非常麻烦
 
@@ -15,7 +15,7 @@
 
 > 注意：目前仅支持 DnsPod 平台的域名
 
-### Install
+## Install
 
 1. 前往 [Release](https://github.com/Redns/AddressTracker/releases) 下载压缩包
 
@@ -50,9 +50,9 @@
 
 ​       日志默认路径 logs/AddressTracker.log
 
-### Usage
+## Usage
 
-#### 开机自启动
+### 开机自启动
 
 为了保证主机重启后依然能自动更新 IP，我们需要让主机重启后自动运行 AddressTracker。下面以 Ubuntu 20.04 为例，演示如何设置开机自启动命令
 
