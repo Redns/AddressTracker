@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddressTracker", "AddressTracker\AddressTracker.csproj", "{1300CE4C-E9DA-4B40-B7FC-F1214A0C51B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressTracker.Core", "AddressTracker.Core\AddressTracker.Core.csproj", "{271E5135-55C1-425A-859B-0F393843F4C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1300CE4C-E9DA-4B40-B7FC-F1214A0C51B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1300CE4C-E9DA-4B40-B7FC-F1214A0C51B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1300CE4C-E9DA-4B40-B7FC-F1214A0C51B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1300CE4C-E9DA-4B40-B7FC-F1214A0C51B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271E5135-55C1-425A-859B-0F393843F4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271E5135-55C1-425A-859B-0F393843F4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271E5135-55C1-425A-859B-0F393843F4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271E5135-55C1-425A-859B-0F393843F4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EED5A36-D2CC-4C6A-BF4C-045A3324CD0C}
+	EndGlobalSection
+EndGlobal

@@ -6,3 +6,10 @@
 /obj
 /Properties/PublishProfiles
 /appsettings-development.json
+/.vs
+/AddressTracker/bin
+/AddressTracker/obj
+/AddressTracker/Properties/PublishProfiles
+/AddressTracker/appsettings-development.json
+/AddressTracker.Core/bin
+/AddressTracker.Core/obj
